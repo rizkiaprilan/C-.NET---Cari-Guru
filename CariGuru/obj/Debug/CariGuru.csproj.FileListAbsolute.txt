@@ -1,0 +1,190 @@
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\csc.exe
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\vbc.exe
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\CariGuru.dll.config
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\CariGuru.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\CariGuru.pdb
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\obj\Debug\CariGuru.csprojResolveAssemblyReference.cache
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+c:\users\arsaj\documents\visual studio 2015\Projects\CariGuru\CariGuru\obj\Debug\CariGuru.pdb
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\csc.exe
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\vbc.exe
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\CariGuru.dll.config
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\CariGuru.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\CariGuru.pdb
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\EntityFramework.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\EntityFramework.SqlServer.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\EntityFramework.xml
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\EntityFramework.SqlServer.xml
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\obj\Debug\CariGuru.csprojResolveAssemblyReference.cache
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+D:\Materi Kuliah\Semester 4\PSD\CariGuru\CariGuru\obj\Debug\CariGuru.pdb
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\obj\Debug\CariGuru.csprojResolveAssemblyReference.cache
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\obj\Debug\CariGuru.pdb
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\csc.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\vbc.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\CariGuru.dll.config
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\CariGuru.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\CariGuru.pdb
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\EntityFramework.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\EntityFramework.SqlServer.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\EntityFramework.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\EntityFramework.SqlServer.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_Yordan2\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\csc.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\vbc.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll.config
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.pdb
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.csprojResolveAssemblyReference.cache
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.pdb
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\csc.exe
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\vbc.exe
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll.config
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.pdb
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.xml
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.xml
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.csprojResolveAssemblyReference.cache
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+C:\Users\arsaj\Documents\SoalAlgo\CariGuru_REVISI 02.05\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.pdb
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\csc.exe
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\vbc.exe
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll.config
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.pdb
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.xml
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.xml
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.csprojAssemblyReference.cache
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.csproj.CoreCompileInputs.cache
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.csproj.CopyComplete
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+E:\Cari Guru Final\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.pdb
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\csc.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\vbc.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll.config
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.pdb
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.csprojResolveAssemblyReference.cache
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+D:\Belajar\Semester 4\tempCariGuru\CariGuru_REVISI 21.23\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.pdb
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\csc.exe
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\vbc.exe
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll.config
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\CariGuru.pdb
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.xml
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\EntityFramework.SqlServer.xml
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.csprojResolveAssemblyReference.cache
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.dll
+C:\Users\arsaj\Documents\SoalAlgo\Cari_Guru_00.19\CariGuru_REVISI 20.15\CariGuru_REVISI\CariGuru\CariGuru\obj\Debug\CariGuru.pdb

@@ -1,0 +1,225 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.Master.cs" Inherits="CariGuru.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+
+    <link rel="stylesheet" href="~/Styles/Style.css" type="text/css" media="screen" runat="server" />
+    <link rel="stylesheet" href="~/Styles/Login.css" type="text/css" media="screen" runat="server" />
+    <link rel="stylesheet" href="~/Styles/Profile.css" type="text/css" media="screen" runat="server" />
+    <link rel="stylesheet" href="~/Styles/Register.css" type="text/css" media="screen" runat="server" />
+     <link rel="stylesheet" href="~/Styles/RegisterStudent.css" type="text/css" media="screen" runat="server" />
+      <link rel="stylesheet" href="~/Styles/Home.css" type="text/css" media="screen" runat="server" />
+      <link rel="stylesheet" href="~/Styles/About.css" type="text/css" media="screen" runat="server" />
+     <link rel="stylesheet" href="~/Styles/Schedule.css" type="text/css" media="screen" runat="server" />
+    <link rel="stylesheet" href="~/Styles/Course.css" type="text/css" media="screen" runat="server" />
+
+
+
+    <title>
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="companyName">
+         <ul> 
+           <li><asp:Image ID="Image9" ImageUrl="~/Media/Cari_Guru.png" runat="server" Width="600" Height="80" /></li>
+             
+           <li><img class="logo" src="logo.png" alt="logo" /></li>
+         </ul>
+        </div>
+
+        <div class="navBar">
+            <ul class="menuLeft">
+                <li>
+                    <asp:HyperLink class="linkNav" ID="home" href="Home.aspx" runat="server">Beranda</asp:HyperLink></li>
+                <li class="category" id="course" runat="server">
+                    <p>Pelajaran</p>
+                    <ul>
+                        <li>
+                            <asp:LinkButton class="categoryNav" ID="musik" runat="server" OnClick="musik_Click">Musik</asp:LinkButton></li>
+                        <li>
+                            <asp:LinkButton class="categoryNav" ID="pelajaranSekolah" runat="server" OnClick="pelajaranSekolah_Click">Pelajaran Sekolah</asp:LinkButton></li>
+                        <li>
+                            <asp:LinkButton class="categoryNav" ID="olahRaga" runat="server" OnClick="olahRaga_Click">Olah Raga</asp:LinkButton></li>
+                    </ul>
+                </li>
+                <asp:PlaceHolder ID="navHld" runat="server">
+                    <li>
+                        <asp:HyperLink class="linkNav" ID="myProfile" href="Profile.aspx" runat="server">Profil</asp:HyperLink></li>
+                    <li>
+                        <asp:HyperLink class="linkNav" ID="mySchedule" href="MySchedule.aspx" runat="server">Jadwal</asp:HyperLink></li>
+                </asp:PlaceHolder>
+
+                <li>
+                    <asp:HyperLink class="linkNav" ID="about" href="About.aspx" runat="server">Tentang</asp:HyperLink></li>
+            </ul>
+            <ul class="menuRight">
+                <asp:PlaceHolder ID="welcome" runat="server">
+                    <li>
+                        <p>
+                            Welcome, 
+                        <asp:Label ID="usernameLbl" runat="server" Text=""></asp:Label>
+                        </p>
+                    </li>
+                </asp:PlaceHolder>
+                <asp:PlaceHolder ID="loginHld" runat="server">
+                    <li>
+                        <asp:LinkButton class="linkNav" ID="login" OnClick="document.getElementById('view').style.display='block'">Masuk</asp:LinkButton></li>
+                </asp:PlaceHolder>
+                <asp:PlaceHolder ID="logoutHld" runat="server">
+                    <li>
+                        <asp:LinkButton class="linkNav" ID="logout" runat="server" OnClick="logout_Click">Keluar</asp:LinkButton></li>
+                </asp:PlaceHolder>
+            </ul>
+
+        </div>
+
+
+
+
+        <div id="view" class="popupLogin">
+            <div class="loginContainer">
+                <div class="imageContainer">
+                    <span onclick="document.getElementById('view').style.display='none'"
+                        class="close" title="Close Modal">&times;</span>
+                    <img alt="Cari Guru" src="logo.png" width="30%" height="30%" />
+                </div>
+                <div class="loginContent">
+                    <div class="inputLogin">
+                        <p>Email</p>
+                        <asp:TextBox ID="emailTxt" class="textBoxLogin" runat="server" TextMode="Email" Width="100%" Height="25px"></asp:TextBox>
+                    </div>
+
+                    <div class="inputLogin">
+                        <p>Password</p>
+                        <asp:TextBox ID="passwordTxt" class="textBoxLogin" runat="server" TextMode="Password" Width="100%" Height="25px"></asp:TextBox>
+                    </div>
+                    <div>
+                        <asp:Button class="loginBtn" ID="loginBtn" OnClick="loginBtn_Click" runat="server" Text="Login" />
+                    </div>
+                    <div>
+                        <asp:Label ID="EmailErrorLblLogin" runat="server" Text=""></asp:Label>
+                        <asp:Label ID="PasswordErrorLblLogin" runat="server" Text=""></asp:Label>
+                    </div>
+                    <div class="loginBottom">
+                        <div class="bottomLeft">
+                            <asp:CheckBox ID="rememberMe" runat="server" Text="Remember Me" />
+                        </div>
+                        <div class="bottomRight">
+                            <asp:HyperLink ID="register" href="Register.aspx" runat="server">Belum punya akun?</asp:HyperLink>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <section class="bottom">
+            <div class="footer">
+                <div class="time">
+                    <asp:ScriptManager ID="ScriptManager1" runat="server">
+                    </asp:ScriptManager>
+
+                    <asp:Timer ID="Timer1" runat="server" Interval="100" OnTick="Timer1_Tick">
+                    </asp:Timer>
+
+                    <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                        <ContentTemplate>
+                            <h2>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                <asp:Label ID="currTime" runat="server" Font-Bold="True" ForeColor="White"></asp:Label>
+                                <asp:Label ID="currDate" runat="server" Text="" ForeColor="White"></asp:Label>
+                            </h2>
+                        </ContentTemplate>
+
+                        <Triggers>
+                            <asp:AsyncPostBackTrigger ControlID="Timer1" EventName="Tick"></asp:AsyncPostBackTrigger>
+                        </Triggers>
+                    </asp:UpdatePanel>
+                </div>
+                <br />
+                <div class="head">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/Media/handphone.png" Width="200px" />
+
+                    <p>Download GRATIS Aplikasi CariGuru sekarang juga!</p>
+                    <asp:Image class="linkapp" runat="server" ImageUrl="~/Media/android icon.png" Width="200px" />
+                    <div class="apple">
+                        <asp:Image class="linkapp" runat="server" ImageUrl="~/Media/appstoreicon.png" Width="200px" />
+                    </div>
+                </div>
+                <hr />
+                <ul>
+                    <li><b>Tentang Kami</b></li>
+                    <br />
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">We Are Hiring</a></li>
+                    <li><a href="#">Testimonial</a></li>
+                </ul>
+                <br />
+                <br />
+                <div class="headsosmed">
+                    <b>Sosial Media <b>
+                </div>
+
+                <div class="sosmed">
+                    <ul>
+                        <br>
+                        <li><a href="#">
+                            <asp:Image ID="Image2" runat="server" ImageUrl="~/Media/facebook.png" Width="30px" /></a></li>
+                        <li><a href="#">
+                            <asp:Image ID="Image3" runat="server" ImageUrl="~/Media/instagram.png" Width="30px" /></a></li>
+                        <li><a href="#">
+                            <asp:Image ID="Image4" runat="server" ImageUrl="~/Media/youtube.png" Width="50px" /></a></li>
+                        <li><a href="#">
+                            <asp:Image ID="Image5" runat="server" ImageUrl="~/Media/line.png" Width="40px" /></a></li>
+                        <li><a href="#">
+                            <asp:Image ID="Image6" runat="server" ImageUrl="~/Media/twitter.png" Width="50px" /></a></li>
+                    </ul>
+                </div>
+                <br />
+                <br />
+
+                <div class="footer2">
+
+                    <ul>
+                        <li><b>Kontak</b></li>
+                        <br/>
+                        <li><a href="#">Customer Service</a></li>
+                        <li><a href="#">Bantuan Pertanyaan</a> </li>
+                    </ul>
+                    <br/>
+                    <br/>
+                    <ul>
+                        <li><b>Hak Cipta</b></li>
+                        <br/>
+                        <li><a href="#">Ketentuan Penggunaan</a></li>
+                        <li><a href="#">Kebijakan Privasi</a></li>
+                    </ul>
+                    <br/>
+                    <br/>
+                    <div class="footerimg">
+                        <a href="Home.aspx">
+                            <asp:Image ID="Image7" runat="server" ImageUrl="~/Media/Icon1.1.png" Width="200px" Height="250px" /></a>
+
+                    </div>
+
+                </div>
+                <p>Copyright Cari Guru 2019 &copy</p>
+                </div>
+        </section>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿
+.contentStudent {
+    border: 3px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.headregister {
+    text-align: center;
+    font-size: 30px;
+    background-color: #0076a5;
+    color: white;
+    padding: 5px;
+    margin-left: -1px;
+}
+
+
+.registbtn {
+    background-color: #0076a5;
+    color: white;
+    text-decoration: none;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    width: 93%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border-radius: 100px;
+}
+
+    .registbtn:hover {
+        background-color: #005475;
+        animation: fadeHoverLogin 0.2s;
+    }
+
+.isicontentstudent {
+    padding-left: 20px;
+}
+
+.textboxx {
+    width: 90%;
+    height: 25px;
+}
+
+.textareaa {
+    width: 90%;
+    height: 100px;
+}

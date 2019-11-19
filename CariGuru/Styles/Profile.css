@@ -1,0 +1,48 @@
+﻿#imageHeader img{
+    display: flex;
+    justify-content: space-around;
+    border-radius:50%;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction:column;
+    
+}
+
+    .container > #imageHeader {
+        display:flex;
+        position:absolute;
+        
+    }
+
+    .container > #ViewProfile {
+        display: flex;
+        align-self:center;
+        flex-direction: column;
+    }
+
+.about {
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+
+    .about b {
+        font-size: 22px;
+        font-family: 'Baskerville Old Face';
+    }
+
+    .about tr td .tooltip {
+        font-size: 13px;
+        color: rgb(196, 189, 189);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.tooltip {
+    font-size: 13px;
+    color: dimgray;
+}
+.blueInfo {
+    color:dodgerblue;
+}

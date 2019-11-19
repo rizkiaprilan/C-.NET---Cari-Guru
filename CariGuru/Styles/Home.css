@@ -1,0 +1,31 @@
+﻿.background {
+    margin: 0;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 101.1%;
+    position: relative;
+    margin-left: -10px;
+    margin-top: -10px;
+    z-index:1;
+}
+
+
+.tulisan {
+    position: absolute;
+    font-style: italic;
+    font-size: 3vw;
+    font-family: 'Tahoma';
+    margin-top: -500px;
+    text-align: center;
+    margin-left: 900px;
+    margin-right: 100px;
+    z-index:2;
+}
+
+.video {
+    position: absolute;
+    width: 50%;
+    margin-top: -1200px;
+    margin-left: 860px;
+    z-index:2;
+}

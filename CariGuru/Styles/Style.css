@@ -1,0 +1,248 @@
+﻿* {
+    margin: 0 0 0 2px;
+    padding: 0;
+}
+
+.companyName {
+    cursor: default;
+    user-select: none;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS';
+}
+
+.content {
+    background: transparent;
+    padding: 20px;
+}
+
+
+.navBar {
+    font-size: 30px;
+    font-family: 'Trebuchet MS';
+    box-shadow: 0 4px 5px rgba(0,0,0,0.4);
+    background: #0076a5;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -20px;
+    position:relative;
+    z-index:4;
+}
+
+    .navBar ul {
+        list-style-type: none;
+    }
+
+    .navBar > ul {
+        display: flex;
+        align-items: center;
+        flex-flow: row wrap;
+    }
+
+        .navBar > ul > li {
+            padding: 15px 0px 15px 0px;
+            display: inline-block;
+            color: floralwhite;
+        }
+
+.menuLeft {
+    justify-content: flex-start;
+}
+
+.menuRight {
+    justify-content: flex-end;
+}
+
+.linkNav {
+    padding: 15px 20px 15px 20px;
+    color: floralwhite;
+    text-decoration: none;
+}
+
+#register .linkNav {
+    color: floralwhite;
+    text-decoration: none;
+}
+
+#login {
+    cursor: pointer;
+}
+
+.navBar > ul > li:hover {
+    background: #005475;
+    animation: fadeHoverMenu 0.3s;
+}
+
+.category {
+    cursor: default;
+    user-select: none
+}
+
+    .category > ul > li {
+        padding: 0 20px 0 20px;
+        background: #004a68;
+        display: none;
+    }
+
+    .category > p {
+        padding: 0 20px 0 20px;
+    }
+
+    .category > ul {
+        margin-top: 15px;
+        position: absolute;
+        overflow: hidden;
+    }
+
+    .category:hover > ul > li {
+        padding: 15px 0 15px 0;
+        margin: 0;
+        display: block;
+        animation: animatenav 0.3s;
+    }
+
+.categoryNav {
+    color: white;
+    margin: 0;
+    text-decoration: none;
+}
+
+    .categoryNav:hover {
+        background: #003c53;
+        animation: fadeHoverCategory 0.3s;
+    }
+
+#musik {
+    padding: 15px 185px 15px 20px;
+}
+
+#pelajaranSekolah {
+    padding: 15px 20px 15px 20px;
+}
+
+#olahRaga {
+    padding: 15px 125px 15px 20px;
+}
+
+@keyframes fadeHoverMenu {
+    from {
+        background: #0076a5;
+    }
+}
+
+@keyframes fadeHoverCategory {
+    from {
+        background: #004a68;
+    }
+}
+
+@keyframes animatenav {
+    from {
+        margin-top: -50px;
+        padding-top: 0px;
+    }
+}
+
+
+
+
+
+
+
+
+.footer {
+    background-color: rgb(59, 59, 59);
+}
+
+.head p {
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -200px;
+    margin-left: 200px;
+    color: white;
+}
+
+.head img {
+    margin-top: 20px;
+}
+
+.linkapp {
+    cursor: pointer;
+}
+
+.apple {
+    position: absolute;
+    margin-top: -165px;
+    margin-left: 420px;
+}
+
+.footer ul {
+    font-size: 20px;
+    margin-inline-start: 60px;
+    list-style-type: none;
+    margin-top: 20px;
+    color: white;
+}
+
+    .footer ul li a {
+        text-decoration: none;
+        color: white;
+    }
+
+.headsosmed {
+    margin-left: 60px;
+    font-size: 25px;
+}
+
+    .headsosmed b {
+        color: white;
+    }
+
+.footer .sosmed ul {
+    display: inline-flex;
+}
+
+    .footer .sosmed ul li {
+        margin: 5px;
+    }
+
+.footer2 {
+    position: absolute;
+    margin-left: 400px;
+    margin-top: -320px;
+}
+
+    .footer2 ul {
+        list-style-type: none;
+    }
+
+.footerimg img {
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 400px;
+}
+
+.bottom p {
+    text-align: center;
+    color: white;
+}
+
+.bottom {
+    margin-left: -1px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+
+.companyName ul {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+    .companyName ul li {
+        margin-right: 1100px;
+    }

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UserModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Category1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Category2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Detail1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Detail2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Teacher" Relationship="Self.FK_Course_ToTable" FromRole="Course" ToRole="Teachers" />
+  </EntityType>
+  <EntityType Name="Schedule">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="Sunday" Type="Int32" />
+    <Property Name="Monday" Type="Int32" />
+    <Property Name="Tuesday" Type="Int32" />
+    <Property Name="Wednesday" Type="Int32" />
+    <Property Name="Thursday" Type="Int32" />
+    <Property Name="Friday" Type="Int32" />
+    <Property Name="Saturday" Type="Int32" />
+    <NavigationProperty Name="Teacher" Relationship="Self.FK_Schedule_ToTable" FromRole="Schedule" ToRole="Teachers" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DOB" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Telephone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Degree" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Province" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Category1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Category2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Detail1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Detail2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Teacher" Relationship="Self.FK_Table_ToTable" FromRole="Table" ToRole="Teachers" />
+  </EntityType>
+  <EntityType Name="Teacher">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DOB" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Telephone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CV" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Ijazah" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="KTP" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Rating" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Course" Relationship="Self.FK_Course_ToTable" FromRole="Teachers" ToRole="Course" />
+    <NavigationProperty Name="Schedule" Relationship="Self.FK_Schedule_ToTable" FromRole="Teachers" ToRole="Schedule" />
+    <NavigationProperty Name="Table" Relationship="Self.FK_Table_ToTable" FromRole="Teachers" ToRole="Table" />
+  </EntityType>
+  <Association Name="FK_Course_ToTable">
+    <End Role="Teachers" Type="Self.Teacher" Multiplicity="1" />
+    <End Role="Course" Type="Self.Course" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Teachers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Course">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Schedule_ToTable">
+    <End Role="Teachers" Type="Self.Teacher" Multiplicity="1" />
+    <End Role="Schedule" Type="Self.Schedule" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Teachers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Schedule">
+        <PropertyRef Name="id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Table_ToTable">
+    <End Role="Teachers" Type="Self.Teacher" Multiplicity="1" />
+    <End Role="Table" Type="Self.Table" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Teachers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Table">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UserEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Courses" EntityType="Self.Course" />
+    <EntitySet Name="Schedules" EntityType="Self.Schedule" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <EntitySet Name="Tables" EntityType="Self.Table" />
+    <EntitySet Name="Teachers" EntityType="Self.Teacher" />
+    <AssociationSet Name="FK_Course_ToTable" Association="Self.FK_Course_ToTable">
+      <End Role="Teachers" EntitySet="Teachers" />
+      <End Role="Course" EntitySet="Courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Schedule_ToTable" Association="Self.FK_Schedule_ToTable">
+      <End Role="Teachers" EntitySet="Teachers" />
+      <End Role="Schedule" EntitySet="Schedules" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Table_ToTable" Association="Self.FK_Table_ToTable">
+      <End Role="Teachers" EntitySet="Teachers" />
+      <End Role="Table" EntitySet="Tables" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

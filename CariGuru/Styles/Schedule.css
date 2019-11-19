@@ -1,0 +1,24 @@
+﻿.square {
+    text-decoration: none;
+    border: none;
+    height: 60px;
+    width: 60px;
+    margin-right: 20px;
+}
+
+.scheduleView {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#editBtn{
+    text-decoration: none;
+    border: none;
+    height: 20px;
+    width: 40px;
+}
+.scheduleView{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: 100px;
+}

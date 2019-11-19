@@ -1,0 +1,39 @@
+﻿.contentAbout {
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: lightblue;
+    border: solid;
+    padding: 20px;
+}
+
+    .contentAbout p {
+        font-size: 20px;
+    }
+
+    .contentAbout div {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+.btn {
+    Width: 50%;
+    Height: 45px;
+    margin: -5px;
+    font-size: large;
+    font-family: Tahoma;
+    border: none;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    color: white;
+    background-color: #4CAF50;
+}
+
+    .btn:hover {
+        background-color: #e7e7e7;
+    }
+
+
+.button {
+    text-align: center;
+}
